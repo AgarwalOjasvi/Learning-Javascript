@@ -16,7 +16,7 @@ Cus of issue in block scope and functional scope
 */
 
 
-// NOTE --->
+// NOTE ---->
 "use strict";  //treat all JS code as newer version
 // alert(4+6)  //we are using nodeJS, not browser
 
